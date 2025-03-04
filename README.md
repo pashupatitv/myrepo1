@@ -1,1 +1,3 @@
-# myrepo1
+ # myrepo1
+Author-Raju Sharma
+City -Pokhara, Nepal

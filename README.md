@@ -1,3 +1,4 @@
  # myrepo1
-Author-Raju Sharma
-City -Pokhara, Nepal
+Author-Raju Kumar Sharma
+Pokhara, Gandaki,Nepal
+email royaloffice103@gmail.com
